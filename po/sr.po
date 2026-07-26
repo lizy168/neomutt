@@ -572,9 +572,9 @@ msgstr "Не знам како да одштампам прилоге %s"
 #, c-format
 msgid "Print attachment?"
 msgid_plural "Print %d attachments?"
-msgstr[0] "Одштампати прилог?"
-msgstr[1] "Одштампати прилоге?"
-msgstr[2] "Одштампати прилоге?"
+msgstr[0] "Одштампати %d прилог?"
+msgstr[1] "Одштампати %d прилога?"
+msgstr[2] "Одштампати %d прилога?"
 
 #: attach/recvattach.c:899
 msgid "Structural changes to decrypted attachments are not supported"
